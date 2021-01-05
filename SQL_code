@@ -1,0 +1,4 @@
+select gis_dummy1.Dist_5KM
+from gis_dummy1
+where gis_dummy1.Place = 'A'
+AND gis_dummy1.Direction = 'N'
